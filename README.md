@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi. welcome 🕵
+
+- 🔭 I'm currently working on setting up my Github profile.
+- 🌱 I'm currently learning Python.
 
 <!--
 **ssherec0n/ssherec0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
